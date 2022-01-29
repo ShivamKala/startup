@@ -1,0 +1,483 @@
+.mediaViewInfo {
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920__1;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1920__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1920__1 {
+	position: absolute;
+	width: 1920px;
+	height: 6841px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920__1;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Rectangle_8 {
+	fill: rgba(50,29,231,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_8 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 147px;
+	left: 0px;
+	top: 6694px;
+}
+#IMG_20170823_195901_185_2 {
+	position: absolute;
+	width: 1121px;
+	height: 1122px;
+	left: -41px;
+	top: -31px;
+	overflow: visible;
+}
+#Rectangle_1 {
+	opacity: 0.37;
+	fill: rgba(6,0,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 1106px;
+	left: 0px;
+	top: -15px;
+}
+#IMG_20170701_205334_626_2 {
+	position: absolute;
+	width: 1091px;
+	height: 1091px;
+	left: 895px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_2 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 15px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 1068px;
+	height: 920px;
+	left: 426px;
+	top: 105px;
+}
+#THE_GREAT_SALE {
+	left: 555px;
+	top: 145px;
+	position: absolute;
+	overflow: visible;
+	width: 812px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 105px;
+	color: rgba(255,255,255,1);
+}
+#TSHIRTS {
+	left: 837px;
+	top: 1491px;
+	position: absolute;
+	overflow: visible;
+	width: 284px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 71px;
+	color: rgba(0,0,0,1);
+	text-transform: uppercase;
+}
+#TANK_TOPS {
+	left: 792px;
+	top: 2771px;
+	position: absolute;
+	overflow: visible;
+	width: 374px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 71px;
+	color: rgba(0,0,0,1);
+	text-transform: uppercase;
+}
+#aCCESSORIES {
+	left: 748px;
+	top: 4101px;
+	position: absolute;
+	overflow: visible;
+	width: 462px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 71px;
+	color: rgba(0,0,0,1);
+	text-transform: uppercase;
+}
+#n__OFF {
+	left: 573px;
+	top: 401px;
+	position: absolute;
+	overflow: visible;
+	width: 776px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 241px;
+	color: rgba(255,255,255,1);
+}
+#FOR_ALL_CLOTHES {
+	left: 517px;
+	top: 864px;
+	position: absolute;
+	overflow: visible;
+	width: 887px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 105px;
+	color: rgba(255,255,255,1);
+}
+#Rectangle_3 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_3 {
+	position: absolute;
+	overflow: visible;
+	width: 615px;
+	height: 31px;
+	left: 653px;
+	top: 316px;
+}
+#Rectangle_4 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_4 {
+	position: absolute;
+	overflow: visible;
+	width: 615px;
+	height: 31px;
+	left: 653px;
+	top: 755px;
+}
+#Group_1 {
+	position: absolute;
+	width: 1143px;
+	height: 180px;
+	left: 426px;
+	top: 1164px;
+	overflow: visible;
+}
+#our_collections {
+	left: 33px;
+	top: 27px;
+	position: absolute;
+	overflow: visible;
+	width: 920px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 105px;
+	color: rgba(50,29,231,1);
+	text-transform: uppercase;
+}
+#Rectangle_5 {
+	fill: transparent;
+	stroke: rgba(50,29,231,1);
+	stroke-width: 15px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_5 {
+	position: absolute;
+	overflow: visible;
+	width: 1143px;
+	height: 180px;
+	left: 0px;
+	top: 0px;
+}
+#Icon_awesome-arrow-alt-circle- {
+	fill: rgba(0,0,0,1);
+}
+.Icon_awesome-arrow-alt-circle- {
+	overflow: visible;
+	position: absolute;
+	width: 70.938px;
+	height: 70.938px;
+	left: 995px;
+	top: 54.531px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_2 {
+	position: absolute;
+	width: 1383px;
+	height: 180px;
+	left: 258px;
+	top: 5415px;
+	overflow: visible;
+}
+#check_more_products {
+	left: 37px;
+	top: 27px;
+	position: absolute;
+	overflow: visible;
+	width: 1212px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 105px;
+	color: rgba(50,29,231,1);
+	text-transform: uppercase;
+}
+#Rectangle_5_z {
+	fill: transparent;
+	stroke: rgba(50,29,231,1);
+	stroke-width: 15px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_5_z {
+	position: absolute;
+	overflow: visible;
+	width: 1383px;
+	height: 180px;
+	left: 0px;
+	top: 0px;
+}
+#Icon_awesome-arrow-alt-circle-_ {
+	fill: rgba(0,0,0,1);
+}
+.Icon_awesome-arrow-alt-circle-_ {
+	overflow: visible;
+	position: absolute;
+	width: 70.938px;
+	height: 70.938px;
+	left: 1269px;
+	top: 54.531px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#n_00_2 {
+	position: absolute;
+	width: 923px;
+	height: 1098px;
+	left: 997px;
+	top: 1615px;
+	overflow: visible;
+}
+#n_00_3 {
+	position: absolute;
+	width: 940px;
+	height: 1119px;
+	left: 0px;
+	top: 1591px;
+	overflow: visible;
+}
+#n_00_7 {
+	position: absolute;
+	width: 659.066px;
+	height: 1212.075px;
+	left: 127.844px;
+	top: 2856px;
+	overflow: visible;
+}
+#n_00_9 {
+	position: absolute;
+	width: 664px;
+	height: 1221.149px;
+	left: 1170.091px;
+	top: 2846.925px;
+	overflow: visible;
+}
+#Rectangle_6 {
+	filter: blur(0px);
+	fill: rgba(245,246,248,1);
+}
+.Rectangle_6 {
+	display: none;
+	position: absolute;
+	overflow: visible;
+	width: 919px;
+	height: 1221px;
+	left: 0px;
+	top: 1534px;
+}
+#n_00__5_-removebg-preview_1 {
+	position: absolute;
+	width: 1053px;
+	height: 1053px;
+	left: 960px;
+	top: 4232px;
+	overflow: visible;
+}
+#n_00__4_-removebg-preview {
+	position: absolute;
+	width: 1020px;
+	height: 1112px;
+	left: -60px;
+	top: 4235px;
+	overflow: visible;
+}
+#banner {
+	position: absolute;
+	width: 2665px;
+	height: 701px;
+	left: -372px;
+	top: 5761px;
+	overflow: visible;
+}
+#Rectangle_7 {
+	fill: rgba(0,0,0,1);
+}
+.Rectangle_7 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 232px;
+	left: 0px;
+	top: 6462px;
+}
+#final_logo {
+	position: absolute;
+	width: 281px;
+	height: 115px;
+	left: 823px;
+	top: 6478px;
+	overflow: visible;
+}
+#promo_code_-_BLUETEAM5 {
+	left: 502px;
+	top: 6600px;
+	position: absolute;
+	overflow: visible;
+	width: 915px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 71px;
+	color: rgba(255,255,255,1);
+	text-transform: uppercase;
+}
+#be_the_part_of_our_community {
+	left: 403px;
+	top: 6700px;
+	position: absolute;
+	overflow: visible;
+	width: 1127px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 71px;
+	color: rgba(255,255,255,1);
+	text-transform: uppercase;
+}
+#thinbluelineclothing {
+	left: 805px;
+	top: 6795px;
+	position: absolute;
+	overflow: visible;
+	width: 332px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 37px;
+	color: rgba(255,255,255,1);
+	text-transform: lowercase;
+}
+#our_happy_blue_family_ {
+	left: 495px;
+	top: 5652px;
+	position: absolute;
+	overflow: visible;
+	width: 858px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 71px;
+	color: rgba(0,0,0,1);
+	text-transform: uppercase;
+}
+#Icon_awesome-instagram {
+	fill: rgba(255,255,255,1);
+}
+.Icon_awesome-instagram {
+	overflow: visible;
+	position: absolute;
+	width: 37.103px;
+	height: 37.094px;
+	left: 761px;
+	top: 6796.416px;
+	transform: matrix(1,0,0,1,0,0);
+}
